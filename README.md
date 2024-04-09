@@ -18,4 +18,6 @@ An openscad render of the front of the PCB:
 
 The circuit schematic, using some current limiting resistors for the rear mounted 3mm LEDs:
 
-![prototype schematic](hardware/STEM4ukraine-NAFO-Alpha-v1.svg)
+![prototype schematic](hardware/STEM4ukraine-NAFO-Alpha.svg)
+
+The gerbers and dithered graphics assume black soldermask, white silkscreen, and Pb/Sn pads, on a fibreglass FR4 substrate.
