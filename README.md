@@ -14,8 +14,8 @@ The prototype is currently undergoing manufacturing and testing
 
 An openscad render of the front of the PCB:
 
-![prototype front](images/STEM4ukraine-NAFO-Alpha-v1-openscad.png)
+![prototype front](images/STEM4ukraine-NAFO-Alpha-openscad.png)
 
 The circuit schematic, using some current limiting resistors for the rear mounted 3mm LEDs:
 
-![prototype front](hardware/STEM4ukraine-NAFO-Alpha-v1.svg)
+![prototype schematic](hardware/STEM4ukraine-NAFO-Alpha-v1.svg)
