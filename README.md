@@ -10,7 +10,9 @@ The circuit is very simple, using resistors and USB power to drive the NAFO Fell
 
 A perfect decoration for your desk, bedside table or home. 
 
-The prototype is currently undergoing manufacturing and testing
+The prototype is currently undergoing manufacturing and testing.
+
+The prototype is many things, but definitely not a CIA operation.
 
 An openscad render of the front of the PCB:
 
